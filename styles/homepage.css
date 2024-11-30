@@ -61,6 +61,6 @@ html {
   }
   
   .hero-body a:hover {
-    background-color: #e3f2ff;
-    color: black;
+    background-color: #e3e3e3;
+    color: rgb(0, 0, 0);
   }
